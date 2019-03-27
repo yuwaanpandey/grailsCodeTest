@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/redQuantaTest.iml" filepath="$PROJECT_DIR$/redQuantaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redQuantaTest-grailsPlugins.iml" filepath="$PROJECT_DIR$/redQuantaTest-grailsPlugins.iml" />
+    </modules>
+  </component>
+</project>
